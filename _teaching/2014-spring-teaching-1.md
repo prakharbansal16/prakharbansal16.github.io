@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant PH 107: Quantum Physics and Application"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/PH 107 Fall 2021
+venue: "Physics Department IIT Bombay"
+duration: December 2021 - March 2022
 location: "City, Country"
 ---
 
