@@ -83,7 +83,7 @@ author:
   name             : "Prakhar"
   avatar           : "ASS_PB.jpg"
   bio              : "Junior Undergraduate, IIT Bombay"
-  location         : "Mumbai"
+  location         : "Mumbai, Maharashtra, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
