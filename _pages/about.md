@@ -14,7 +14,7 @@ Hello there! I'm Prakhar, a third year undergraduate student at the Electrical E
 Apart from academics, I'm quite into Stand-Up Comedy. I love writing and performing jokes based on events happening in and around the world. In technical terms, the genre falls under the category of topical comedy. The picture that you can see on your left is that of the Annual Standup Showcase, an event held in our college where me along with 7 other performers from the insti performed for a packed auditorium consisting of a crowd of approx 700 members.
 
 # Research Interests
-I love spending my time thinking about problems in Astrophysics and Cosmology especially early universe Physics. A few specific areas about which I'm quite excited and look forward to work to are
+I love spending my time reading and thinking about problems in Astrophysics and Cosmology especially early universe Physics. A few specific areas about which I'm quite excited and look forward to work to are
   - [Cosmic Microwave Background (CMB) Anisotropies](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
   - [Reionization](https://en.wikipedia.org/wiki/Reionization)
   - [Inflation Models](https://en.wikipedia.org/wiki/Inflation_(cosmology))
