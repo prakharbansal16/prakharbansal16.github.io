@@ -14,7 +14,7 @@ author_profile: true
 # Cosmology/Astrophysics Projects
 
 ## 1. Optimal Parameter Constraints for Dark Energy Models
-(March 2022- Present)
+(March 2022- Present)<br>
 **Guide** : [Prof Bharat Ratra, Kansas State University](https://www.phys.ksu.edu/people/tt-faculty/ratra.html)<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>
 **Report(s)**: [Report 1](http://prakharbansal16.github.io/files/Project_Reports/Parameter_Constraints.pdf) [Report 2](http://prakharbansal16.github.io/files/Project_Reports/BAO_Parameter_Constraints.pdf)
