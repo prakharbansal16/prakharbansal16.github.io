@@ -31,3 +31,25 @@ author_profile: true
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 **Reading Notes**: 
 
+
+# Proteomics Research Project
+## -Mutant Peptide Analysis in Covid-19 affected Indian Patients
+(May 2021 - February 2022)
+**Guide** : [Prof Sanjeeva Srivastava, IIT Bombay](https://www.bio.iitb.ac.in/people/faculty/srivastava-s/))<br>
+<!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
+**Publication**: Manuscript under Preparation
+
+# Other Physics Projects
+## 1. Elementary Particle Physics (Reading Project) 
+(May 2021 - July 2021)
+**Guide** : [Ms Archana Maji, Msc Physics Student, IIT Bombay])<br>
+<!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
+**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/sos_report.pdf)
+**Video Presentation**: [CLick Here](https://drive.google.com/file/d/1Y7p6GYb058DtpSsHJufI08IP5gkcUGUr/view?usp=sharing)
+
+## 2. Correcting Stellar Aberration using Curve Fitting
+(August 2021)
+**Guide** : [Krittika, The Astronomy Club, IIT Bombay])<br>
+**Github**: [Click Here](https://github.com/prakharbansal16/Stellar-Abberation-KSP-2.0)<br>
+**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Ksp_report.pdf)
+
