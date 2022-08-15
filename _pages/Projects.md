@@ -35,14 +35,14 @@ author_profile: true
 # Proteomics Research Project
 ## -Mutant Peptide Analysis in Covid-19 affected Indian Patients
 (May 2021 - February 2022)<br>
-**Guide** : [Prof Sanjeeva Srivastava, IIT Bombay](https://www.bio.iitb.ac.in/people/faculty/srivastava-s/))<br>
+**Guide** : [Prof Sanjeeva Srivastava, IIT Bombay](https://www.bio.iitb.ac.in/people/faculty/srivastava-s/)<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
 **Publication**: Manuscript under Preparation
 
 # Other Physics Projects
 ## 1. Elementary Particle Physics (Reading Project) 
 (May 2021 - July 2021)<br>
-**Guide** : [Ms Archana Maji, Msc Physics Student, IIT Bombay])<br>
+**Guide** : [Ms Archana Maji, Msc Physics Student, IIT Bombay]<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/sos_report.pdf)<br>
 **Video Presentation**: [CLick Here](https://drive.google.com/file/d/1Y7p6GYb058DtpSsHJufI08IP5gkcUGUr/view?usp=sharing)
