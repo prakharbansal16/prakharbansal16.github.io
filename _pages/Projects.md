@@ -66,7 +66,7 @@ author_profile: true
 (March 2021 - July 2021)
 **Programme** : Seasons of Code, Web n Coding Club, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Genre_From_Poster_SoC)<br>
-**Report**: [Click Here]()
+**Report**: [Click Here]()<br>
 **Video Presentation**: [Click Here]()
 
 
