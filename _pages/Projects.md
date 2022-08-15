@@ -49,7 +49,30 @@ author_profile: true
 
 ## 2. Correcting Stellar Aberration using Curve Fitting
 (August 2021)<br>
-**Guide** : [Krittika, The Astronomy Club, IIT Bombay])<br>
+**Guide** : [Krittika, The Astronomy Club, IIT Bombay]<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Stellar-Abberation-KSP-2.0)<br>
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Ksp_report.pdf)
+
+# Machine Learning Projects
+
+## 1. n3URL 
+(March 2021 - July 2021)
+**Programme** : Institute Technical Summer Project, Institute Technical Council, IIT Bombay<br>
+**Github**: [Click Here](https://github.com/prakharbansal16/n3URL)<br>
+**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/ITS21038_n3URL.pdf)
+**Video Presentation**: [Click Here](https://drive.google.com/file/d/1G3saIIK_zbDu5j93pIBrnT-JBjQMNUd9/view?usp=sharing)
+
+## 2. Convolution Neural Networks(CNN) and its applications
+(March 2021 - July 2021)
+**Programme** : Seasons of Code, Web n Coding Club, IIT Bombay<br>
+**Github**: [Click Here](https://github.com/prakharbansal16/Genre_From_Poster_SoC)<br>
+**Report**: [Click Here]()
+**Video Presentation**: [Click Here]()
+
+
+
+
+
+
+
 
