@@ -45,7 +45,7 @@ author_profile: true
 **Guide** : [Ms Archana Maji, Msc Physics Student, IIT Bombay]<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/sos_report.pdf)<br>
-**Video Presentation**: [CLick Here](https://drive.google.com/file/d/1Y7p6GYb058DtpSsHJufI08IP5gkcUGUr/view?usp=sharing)
+**Video Presentation**: [Click Here](https://drive.google.com/file/d/1Y7p6GYb058DtpSsHJufI08IP5gkcUGUr/view?usp=sharing)
 
 ## 2. Correcting Stellar Aberration using Curve Fitting
 (August 2021)<br>
