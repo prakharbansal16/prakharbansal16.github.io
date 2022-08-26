@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!--{% include base_path %}
 
 Education
 ======
@@ -56,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
+Here is the link to my Curriculum Vitae [<i class="fas fa-file-pdf"></i>](https://github.com/prakharbansal16/prakharbansal16.github.io/blob/master/files/Prakhar_CV.pdf)
