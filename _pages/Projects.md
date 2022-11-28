@@ -64,7 +64,7 @@ author_profile: true
 
 ## 1. n3URL 
 (March 2021 - July 2021)<br>
-![BCI](/images/bci.png "")<br/>
+![BCI](/images/bci.png "...")<br/>
 **Programme** : Institute Technical Summer Project, Institute Technical Council, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/n3URL)<br>
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/ITS21038_n3URL.pdf)
@@ -72,7 +72,7 @@ author_profile: true
 
 ## 2. Convolution Neural Networks(CNN) and its applications
 (March 2021 - July 2021)<br>
-![CNN ](/images/cnn.png "")<br/>
+![CNN ](/images/cnn.png "...")<br/>
 **Programme** : Seasons of Code, Web n Coding Club, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Genre_From_Poster_SoC)<br>
 **Report**: [Click Here]()<br>
