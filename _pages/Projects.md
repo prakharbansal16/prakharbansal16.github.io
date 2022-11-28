@@ -15,7 +15,7 @@ author_profile: true
 
 ## 1. Optimal Parameter Constraints for Dark Energy Models
 (March 2022- Present)<br>
-![Dark Energy](/images/DMPie_2013.svg "Composition of Universe")
+![Dark Energy](/images/DMPie_2013.svg "Composition of Universe")<br/>
 **Guide** : [Prof Bharat Ratra, Kansas State University](https://www.phys.ksu.edu/people/tt-faculty/ratra.html)<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>
 **Report(s)**: [Report 1](http://prakharbansal16.github.io/files/Project_Reports/Parameter_Constraints.pdf) [Report 2](http://prakharbansal16.github.io/files/Project_Reports/BAO_Parameter_Constraints.pdf)
@@ -23,7 +23,7 @@ author_profile: true
 
 ## 2. Resolved Star Formation using MaNGA Survey| Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Present)<br>
-![MaNGA Survey](/images/imagegalaxy.png "The SDSS image of a galaxy observed by MaNGA; the pink hexagon shows the size of the MaNGA IFU")<br/>
+![MaNGA Survey](/images/mangagalaxy.png "The SDSS image of a galaxy observed by MaNGA; the pink hexagon shows the size of the MaNGA IFU")<br/>
 **Guide** : [Prof Yogesh Wadadekar, NCRA Pune](http://www.ncra.tifr.res.in/~yogesh/)<br>
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 **Report(s)**: Under Preparation
