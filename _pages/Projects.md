@@ -33,7 +33,18 @@ author_profile: true
 ![21cm](/images/21cm.png "Evolution of the Global 21-cm Signal")<br/>
 **Guide** : [Prof Vikram Rentala, IIT Bombay](https://www.phy.iitb.ac.in/en/employee-profile/vikram-rentala)<br>
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
-**Reading Notes**: 
+**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/21cm_Cosmology_Project_Report.pdf)<br>
+**Video Presentation**: [Click Here](https://drive.google.com/file/d/1sY3WVsxJiOAo8BUeyzPlr5uJDY_k-eQ7/view?usp=sharing)
+
+
+## 4. Gravitational Waves from Freely Precessing Rigid Bodies <br/> Course Project| PH 821: Gravitational Waves Physics and Astronomy
+(October 2022 - November 2022)<br>
+![gws](/images/grav_waves.jpg "Gravitational Waves from Binary Blackhole Merger")<br/>
+**Guide** : [Prof Archana Pai, IIT Bombay](https://homepages.iitb.ac.in/~archanap/)<br>
+**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Grav_Waves_Project.pdf)<br>
+**Video Presentation**: [Click Here](https://drive.google.com/file/d/1jAjsOsL3Ra4vrGi75n0unRFchOz_z0GU/view?usp=sharing)
+<!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
+
 
 
 # Proteomics Research Project
