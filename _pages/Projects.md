@@ -30,6 +30,7 @@ author_profile: true
 
 ## 3. Investigation of Dark Matter in Cosmological 21 cm signals
 (December 2021 - Present)<br>
+![21cm](/images/21cm.png "Evolution of the Global 21-cm Signal")<br/>
 **Guide** : [Prof Vikram Rentala, IIT Bombay](https://www.phy.iitb.ac.in/en/employee-profile/vikram-rentala)<br>
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 **Reading Notes**: 
@@ -38,6 +39,7 @@ author_profile: true
 # Proteomics Research Project
 ## 1. Mutant Peptide Analysis in Covid-19 affected Indian Patients
 (May 2021 - February 2022)<br>
+![mutant](/images/mutant.png "Generation of Mutant Peptides")<br/>
 **Guide** : [Prof Sanjeeva Srivastava, IIT Bombay](https://www.bio.iitb.ac.in/people/faculty/srivastava-s/)<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
 **Publication**: Manuscript under Preparation
@@ -45,6 +47,7 @@ author_profile: true
 # Other Physics Projects
 ## 1. Elementary Particle Physics (Reading Project) 
 (May 2021 - July 2021)<br>
+![particle physics](/images/std_model.jpg "The Standard Model of Particle Physics")<br/>
 **Guide** : Ms Archana Maji, Msc Physics Student, IIT Bombay<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/sos_report.pdf)<br>
@@ -52,6 +55,7 @@ author_profile: true
 
 ## 2. Correcting Stellar Aberration using Curve Fitting
 (August 2021)<br>
+![Stellar Aberration](/images/stellar_aberration.png "Geometric Description of Stellar Aberration")<br/>
 **Guide** : Krittika, The Astronomy Club, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Stellar-Abberation-KSP-2.0)<br>
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Ksp_report.pdf)
@@ -60,6 +64,7 @@ author_profile: true
 
 ## 1. n3URL 
 (March 2021 - July 2021)<br>
+![BCI](/images/bci.png "")<br/>
 **Programme** : Institute Technical Summer Project, Institute Technical Council, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/n3URL)<br>
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/ITS21038_n3URL.pdf)
@@ -67,6 +72,7 @@ author_profile: true
 
 ## 2. Convolution Neural Networks(CNN) and its applications
 (March 2021 - July 2021)<br>
+![CNN ](/images/cnn.png "")<br/>
 **Programme** : Seasons of Code, Web n Coding Club, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Genre_From_Poster_SoC)<br>
 **Report**: [Click Here]()<br>
