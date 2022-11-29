@@ -18,11 +18,11 @@ Teaching is a fun activity because it compels me to hunt for ways to explain com
 I have been a teaching assistant(TA) for two undergrad first-year physics courses. As a TA, I conducted weekly tutorial sessions for a batch of 38 students to discuss problem sets. Apart from that, I evaluated answer scripts, conducted weekly tutorial quizzes and provided course-work related guidance to the students. The course materials for the two courses can be accessed using the links below
 
 ## 1. [Teaching Assistant Fall 2021 <br/> PH 107: Quantum Physics and Application](https://prakharbansal16.github.io/teaching/PH%20107%20Fall%202021)
-(December 2021- March 2022)<br>
+
 
 
 ## 2. [Teaching Assistant Spring 2022 <br/> PH 108: Basics of Electricity and Magnetism](https://prakharbansal16.github.io/teaching/PH%20108%20Spring%202022)
-(March 2022- July 2022)<br>
+
 
 # Vriksh NGO Volunteer
 
