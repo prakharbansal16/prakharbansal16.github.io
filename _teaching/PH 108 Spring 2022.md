@@ -3,7 +3,7 @@ title: "Teaching Assistant PH 108: Basics of Electricity and Magnetism"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/PH 108 Spring 2022
-duration: 2022
+duration: 2022-07-9
 venue: "Physics Department IIT Bombay"
 location: "City, Country"
 ---
