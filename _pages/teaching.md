@@ -24,7 +24,6 @@ I have been a teaching assistant(TA) for two undergrad first-year physics course
 ## 2. [Teaching Assistant Spring 2022 <br/> PH 108: Basics of Electricity and Magnetism](https://prakharbansal16.github.io/teaching/PH%20108%20Spring%202022)
 
 <br/>
-<br/>
 
 
 # Vriksh NGO Volunteer
