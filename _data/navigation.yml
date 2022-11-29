@@ -13,8 +13,8 @@ main:
   - title: "CV"
     url: /cv/
     
- - title: "Contact Me"
-    url: /contact/
+# - title: "Contact Me"
+ #   url: /contact/
     
   
 
