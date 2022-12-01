@@ -27,5 +27,6 @@ like James Webb Space Telescope(JWST) to observe the universe at very high redsh
 of 21-cm Cosmology becomes an exciting area where we’ll get to test our theoretical predictions
 against the observations and study the birth of first stars and galaxies. [Here](https://prakharbansal16.github.io/Projects/) you can find the details of a project in this direction on which I'm currently working. 
 ## 3. Gravitational Waves
+
 ## 4. Particle Physics of the Early Universe
 ## 5. Extragalactic Astronomy
