@@ -27,6 +27,8 @@ like James Webb Space Telescope(JWST) to observe the universe at very high redsh
 of 21-cm Cosmology becomes an exciting area where we’ll get to test our theoretical predictions
 against the observations and study the birth of first stars and galaxies. [Here](https://prakharbansal16.github.io/Projects/) you can find the details of a project in this direction on which I'm currently working. 
 ## 3. Gravitational Waves
-Albert Einstein in his General Theory of Relativity predicted the existence of Gravitational Waves(GWs) in 1916. GWs can be better understood by considering the analogy with Electromagnetic Waves. Just like an accelerating charge radiates EM waves, an accelerating (and anisotropic) mass emits energy in the form of Gravitational Waves. The strongest GWs are produced by some of the most violent events in the universe like Black Hole (or Neutron Star) Collisions or Supernovae Explosions. The field is in its infancy with the first detection coming
-## 4. Particle Physics of the Early Universe
-## 5. Extragalactic Astronomy
+In his General Theory of Relativity, Albert Einstein predicted the existence of Gravitational Waves(GWs) in 1916. GWs can be better understood by considering the analogy with Electromagnetic Waves. Just like an accelerating charge radiates EM waves, an accelerating (and anisotropic) mass emits energy in Gravitational Waves. The strongest GWs are produced by some of the most violent events in the universe, like Black Hole (or Neutron Star) Collisions or Supernovae Explosions. Apart from these Astrophysical sources, GWs can also be of cosmological origin, which were emitted at the end of inflation. These GWs are called Primordial GWs. I am primarily interested in studying the properties of GWs from various astrophysical sources and Primordial GWs. [Here](https://prakharbansal16.github.io/Projects/) you can find the details of a project I completed as part of the Gravitational Waves Astronomy course offered in the Autumn 2022 sem.
+## 5. CMB Anisotropies and Polarisation
+## 6. Extragalactic Astronomy
+## 7. Theoretical Physics
+
