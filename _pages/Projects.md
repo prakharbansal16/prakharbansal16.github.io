@@ -20,6 +20,10 @@ author_profile: true
 **Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>
 **Report(s)**: [Report 1](http://prakharbansal16.github.io/files/Project_Reports/Parameter_Constraints.pdf) [Report 2](http://prakharbansal16.github.io/files/Project_Reports/BAO_Parameter_Constraints.pdf)
 <!--**Description**: In 1930s Edwin Hubble established that our universe is expanding. -->
+        
+        $\bullet$ Applied Markov Chain Monte Carlo  ({\bf MCMC}) simulations using {\bf emcee} library to constrain model parameters {\bf $\Omega_bh^2$, $\Omega_ch^2$, $\Omega_{\Lambda}$, $H_o$, $\omega_x$} for {\bf $\Lambda$CDM} and {\bf XCDM} models using {\bf H(z)} and {\bf BAO} data 
+        
+         $\bullet$ Aiming to extend the parameter constraints analysis using {\bf Supernova IA, Quasar Angular Size and H II starburst galaxy} data for $\phi$CDM model by employing {\bf MontePython} and {\bf CLASS} code
 
 ## 2. Resolved Star Formation using MaNGA Survey<br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Present)<br>
