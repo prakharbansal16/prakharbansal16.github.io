@@ -13,6 +13,7 @@ author_profile: true
 -->
 # Cosmology/Astrophysics Projects
 
+~~~
 ## 1. Optimal Parameter Constraints for Dark Energy Models
 (March 2022- Present)<br>
 ![Dark Energy](/images/DMPie_2013.svg "Composition of Universe")<br/>
@@ -23,6 +24,7 @@ author_profile: true
   - Applied Markov Chain Monte Carlo (MCMC) simulations using emcee library to constrain model parameters $\Omega_bh^2$, $\Omega_ch^2$, $\Omega_{\Lambda}$, $H_o$, $\omega_x$ for $\Lambda$ CDM and XCDM models using H(z) and BAO data 
         
   - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
+~~~
 
 ## 2. Resolved Star Formation using MaNGA Survey<br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Present)<br>
