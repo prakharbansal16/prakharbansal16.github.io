@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am Prakhar, a third-year undergraduate student in the Department of Electrical Engineering, IIT Bombay. Owing to my inclination toward Physics, I am pursuing a Minor degree in Physics. Although I am interested in all aspects of the subject, my main pursuits are Astrophysics and Cosmology, leading to my involvement in several exciting projects. Some specific areas about which I'm curious are mentioned [here](https://prakharbansal16.github.io/interests/). A detailed description of each one of my projects can be found [here](https://prakharbansal16.github.io/Projects/). Keep scrolling to find out more about my research interests. <br/>
+Hello there! I am Prakhar, a third-year undergraduate student in the Department of Electrical Engineering, IIT Bombay. Owing to my inclination toward Physics, I am pursuing a Minor degree in Physics. Although I am interested in all aspects of the subject, my main pursuits are Astrophysics and Cosmology, leading to my involvement in several exciting projects. Some specific areas about which I'm curious are mentioned [here](https://prakharbansal16.github.io/interests/). A detailed description of each one of my projects can be found [here](https://prakharbansal16.github.io/Projects/).<br/>
 Apart from academics, I am into stand-up comedy! I love writing and performing jokes based on events happening in and around the world. If you are a comedy-savant like me, this genre is topical comedy. If you are not, I might just write a set on you! The picture you can see on your left is that of the Annual Standup Showcase, an event held in our college where I and seven other performers from the institute performed for a packed auditorium of almost 700 members.
 
 
