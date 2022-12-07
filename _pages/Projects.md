@@ -14,7 +14,7 @@ author_profile: true
 -->
 # Cosmology/Astrophysics Projects
 
-**---**
+-----------------------------------------------------------
 ## 1. Optimal Parameter Constraints for Dark Energy Models
 (March 2022- Present)<br>
 ![Dark Energy](/images/DMPie_2013.svg "Composition of Universe")<br/>
@@ -26,7 +26,7 @@ author_profile: true
         
   - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
   
-**---**
+-----------------------------------------------------------
 
 ## 2. Resolved Star Formation using MaNGA Survey<br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Present)<br>
