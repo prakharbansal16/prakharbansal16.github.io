@@ -26,14 +26,14 @@ author_profile: true
         
   - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
 ---
-
+---
 ## 2. Resolved Star Formation using MaNGA Survey<br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Present)<br>
 ![MaNGA Survey](/images/mangagalaxy.png "The SDSS image of a galaxy observed by MaNGA; the pink hexagon shows the size of the MaNGA IFU")<br/>
 **Guide** : [Prof Yogesh Wadadekar, NCRA Pune](http://www.ncra.tifr.res.in/~yogesh/)<br>
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 **Report(s)**: Under Preparation
-
+---
 ## 3. Investigation of Dark Matter in Cosmological 21 cm signals
 (December 2021 - Present)<br>
 ![21cm](/images/21cm.png "Evolution of the Global 21-cm Signal")<br/>
@@ -50,7 +50,6 @@ author_profile: true
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Grav_Waves_Project.pdf)<br>
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1jAjsOsL3Ra4vrGi75n0unRFchOz_z0GU/view?usp=sharing)
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
-
 ---
 
 # Proteomics Research Project
