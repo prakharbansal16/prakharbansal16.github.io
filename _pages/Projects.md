@@ -24,7 +24,7 @@ author_profile: true
 **Description**: <br/>
 
    - Read about various Cosmological Tests including Gravitational Lensing, Bolometric Distance Modulus, Galaxy Count. Studied three dark energy models: $\Lambda$ CDM , XCDM and $\phi$ CDM 
-   - 
+ 
   - Applied Markov Chain Monte Carlo (MCMC) simulations using emcee library to constrain model parameters $\Omega_bh^2$, $\Omega_ch^2$, $\Omega_{\Lambda}$, $H_o$, $\omega_x$ for $\Lambda$ CDM and XCDM models using H(z) and BAO data 
         
   - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
@@ -40,9 +40,9 @@ author_profile: true
 **Description**:
 - Studied aspects of extragalactic astronomy like Galaxy Morphology, Evolution and Clusters and High Redshift Galaxies from Peter Schneider's book Extragalactic Astronomy and Cosmology
         
-  - Currently reading about Cosmic Evolution Early Release Science Survey (CEERS). Preparing a catalog of properties like Redshift, Mass, Star Formation Rate of $\sim$ 60,000 high redshift galaxies
+- Currently reading about Cosmic Evolution Early Release Science Survey (CEERS). Preparing a catalog of properties like Redshift, Mass, Star Formation Rate of $\sim$ 60,000 high redshift galaxies
         
-  - Attended introductory Radio Astronomy Lectures on   Pulsars, AGNs, Interferometry  and visited Giant Meterwave Radio Telescope (GMRT) Observatory located in Pune
+- Attended introductory Radio Astronomy Lectures on   Pulsars, AGNs, Interferometry  and visited Giant Meterwave Radio Telescope (GMRT) Observatory located in Pune
 
 
 ---
@@ -55,7 +55,8 @@ author_profile: true
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/21cm_Cosmology_Project_Report.pdf)<br>
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1sY3WVsxJiOAo8BUeyzPlr5uJDY_k-eQ7/view?usp=sharing)<br/>
 **Description**:<br/>
-    - Learnt about applications of   Boltzmann equation in tracking abundance of various particle constituents like Baryons, Cold Dark Matter(CDM) Particles, Neutrinos and Photons of the universe
+
+   - Learnt about applications of   Boltzmann equation in tracking abundance of various particle constituents like Baryons, Cold Dark Matter(CDM) Particles, Neutrinos and Photons of the universe
         
    - Studied about inhomogeneities in matter, growth of structure in the universe in the linear regime and the inflation theory. Currently reading about CMB anisotropies 
         
@@ -71,7 +72,8 @@ author_profile: true
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1jAjsOsL3Ra4vrGi75n0unRFchOz_z0GU/view?usp=sharing)<br/>
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 **Description**: <br/>
-  - Performed analytic calculations for the Gravitational Wave (GW) amplitude corresponding to plus (+) and cross ($\times$) polarisation and power radiated in GWs from a rigid body precessing about its axis
+
+ - Performed analytic calculations for the Gravitational Wave (GW) amplitude corresponding to plus (+) and cross ($\times$) polarisation and power radiated in GWs from a rigid body precessing about its axis
         
  - Estimated the order of magnitude of Gravitational Waves emitted from pulsars and presented the work as a seminar for the course
 
@@ -84,7 +86,19 @@ author_profile: true
 ![mutant](/images/mutant.png "Generation of Mutant Peptides")<br/>
 **Guide** : [Prof Sanjeeva Srivastava, IIT Bombay](https://www.bio.iitb.ac.in/people/faculty/srivastava-s/)<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
-**Publication**: Manuscript under Preparation
+**Publication**: Manuscript under Preparation <br/>
+**Description**:
+
+ - Completed the 21 day Proteomics Internship Orientation Program and
+    learnt about various proteomics approaches like gel based, label based  and targeted proteomics  
+        
+ - Trained in various Bioinformatics tools like Maxquant, Reactome and Proteome Discoverer
+        
+ - Written python scripts to extract specific Sars-Cov-2 protein sequences and identify correct frame from a three-frame translated proteomic data of Covid-19 affected Indian Patients
+
+
+
+
 
 ---
 
