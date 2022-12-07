@@ -109,24 +109,49 @@ author_profile: true
 **Guide** : Ms Archana Maji, Msc Physics Student, IIT Bombay<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/sos_report.pdf)<br>
-**Video Presentation**: [Click Here](https://drive.google.com/file/d/1Y7p6GYb058DtpSsHJufI08IP5gkcUGUr/view?usp=sharing)
+**Video Presentation**: [Click Here](https://drive.google.com/file/d/1Y7p6GYb058DtpSsHJufI08IP5gkcUGUr/view?usp=sharing)<br/>
+**Description**: <br/>
+ - Studied the properties of elementary particles, their classification schemes and their interactions with the help of Feynman Diagrams and the Conservation Laws  governing these interactions
+        
+ - Learnt about Noether's theorem and some fundamentals of group theory focusing mainly on Lie Groups and explored properties of certain lie groups like SU(n), SO(n) and SL(n,$\mathbb{C}$)
+        
+ -  Looked into Flavor Symmetry to understand Quark Models like baryon decuplets and meson nonets by studying the combinations of up, down and strange quarks to form mesons and baryons
+
+---
 
 ## 2. Correcting Stellar Aberration using Curve Fitting
 (August 2021)<br>
 ![Stellar Aberration](/images/stellar_aberration.png "Geometric Description of Stellar Aberration")<br/>
 **Guide** : Krittika, The Astronomy Club, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Stellar-Abberation-KSP-2.0)<br>
-**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Ksp_report.pdf)
+**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Ksp_report.pdf)<br/>
+**Description**: <br/>
+  
+ - Obtained the relation between Apparent Ecliptic Coordinates of a star and its True Ecliptic Coordinates  using relativstic velocity addition
+        
+ - Computed the true position of a star using Curve-Fitting, given its apparent position over a year
+ 
+---
 
 # Machine Learning Projects
+
+---
 
 ## 1. n3URL 
 (March 2021 - July 2021)<br>
 ![BCI](/images/bci.png "...")<br/>
 **Programme** : Institute Technical Summer Project, Institute Technical Council, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/n3URL)<br>
-**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/ITS21038_n3URL.pdf)
-**Video Presentation**: [Click Here](https://drive.google.com/file/d/1G3saIIK_zbDu5j93pIBrnT-JBjQMNUd9/view?usp=sharing)
+**Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/ITS21038_n3URL.pdf)<br/>
+**Video Presentation**: [Click Here](https://drive.google.com/file/d/1G3saIIK_zbDu5j93pIBrnT-JBjQMNUd9/view?usp=sharing)<br/>
+**Description**: <br/>
+  - Implemented a Convolutional Neural Network and trained it on   Electroencephalogram data to classify EEG signals based on whether the user is thinking about left or right movement
+        
+  - Used simulated EEG signals to control movement in the   Breakout  game with   75 \% accuracy 
+        
+  - Selected as one of the top 6 teams among 50 teams that participated in the competition
+         
+----
 
 ## 2. Convolution Neural Networks(CNN) and its applications
 (March 2021 - July 2021)<br>
@@ -134,9 +159,14 @@ author_profile: true
 **Programme** : Seasons of Code, Web n Coding Club, IIT Bombay<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Genre_From_Poster_SoC)<br>
 **Report**: [Click Here]()<br>
-**Video Presentation**: [Click Here]()
-
-
+**Video Presentation**: [Click Here]()<br/>
+**Description**: <br/>
+   - Implemented the ResNet50 architecture with transfer learning from the Imagenet project and used it for the multilabel classification problem of classifying movie posters based on their genres
+        
+   - Achieved 18\% accuracy for predicting all genres and 80\% accuracy  for predicting a single genre
+        
+   - Learnt about various types of Convolutional Neural Networks and how to implement them in Python using Tensorflow 
+-----
 
 
 
