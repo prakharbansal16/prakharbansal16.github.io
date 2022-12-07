@@ -15,7 +15,7 @@ author_profile: true
 # Cosmology/Astrophysics Projects
 
 -----------------------------------------------------------
-<hr style="border:5px solid blue">
+<hr style="border:2px solid gray">
 
 ## 1. Optimal Parameter Constraints for Dark Energy Models
 (March 2022- Present)<br>
