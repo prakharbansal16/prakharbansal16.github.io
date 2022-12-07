@@ -41,7 +41,7 @@ author_profile: true
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/21cm_Cosmology_Project_Report.pdf)<br>
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1sY3WVsxJiOAo8BUeyzPlr5uJDY_k-eQ7/view?usp=sharing)
-
+---
 
 ## 4. Gravitational Waves from Freely Precessing Rigid Bodies <br/> Course Project| PH 821: Gravitational Waves Physics and Astronomy
 (October 2022 - November 2022)<br>
@@ -51,7 +51,7 @@ author_profile: true
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1jAjsOsL3Ra4vrGi75n0unRFchOz_z0GU/view?usp=sharing)
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 
-
+---
 
 # Proteomics Research Project
 ## 1. Mutant Peptide Analysis in Covid-19 affected Indian Patients
@@ -60,6 +60,8 @@ author_profile: true
 **Guide** : [Prof Sanjeeva Srivastava, IIT Bombay](https://www.bio.iitb.ac.in/people/faculty/srivastava-s/)<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
 **Publication**: Manuscript under Preparation
+
+---
 
 # Other Physics Projects
 ## 1. Elementary Particle Physics (Reading Project) 
