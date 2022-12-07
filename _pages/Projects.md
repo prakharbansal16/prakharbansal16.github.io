@@ -144,9 +144,9 @@ author_profile: true
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/ITS21038_n3URL.pdf)<br/>
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1G3saIIK_zbDu5j93pIBrnT-JBjQMNUd9/view?usp=sharing)<br/>
 **Description**: <br/>
-  - Implemented a Convolutional Neural Network and trained it on   Electroencephalogram data to classify EEG signals based on whether the user is thinking about left or right movement
+  - Implemented a Convolutional Neural Network and trained it on Electroencephalogram data to classify EEG signals based on whether the user is thinking about left or right movement
         
-  - Used simulated EEG signals to control movement in the   Breakout  game with   75 \% accuracy 
+  - Used simulated EEG signals to control movement in the Breakout game with 75% accuracy 
         
   - Selected as one of the top 6 teams among 50 teams that participated in the competition
          
@@ -162,7 +162,7 @@ author_profile: true
 **Description**: <br/>
    - Implemented the ResNet50 architecture with transfer learning from the Imagenet project and used it for the multilabel classification problem of classifying movie posters based on their genres
         
-   - Achieved 18\% accuracy for predicting all genres and 80\% accuracy  for predicting a single genre
+   - Achieved 18% accuracy for predicting all genres and 80\% accuracy  for predicting a single genre
         
    - Learnt about various types of Convolutional Neural Networks and how to implement them in Python using Tensorflow 
    
