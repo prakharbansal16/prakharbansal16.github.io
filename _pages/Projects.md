@@ -15,6 +15,8 @@ author_profile: true
 # Cosmology/Astrophysics Projects
 
 -----------------------------------------------------------
+<hr style="border:2px solid blue">
+
 ## 1. Optimal Parameter Constraints for Dark Energy Models
 (March 2022- Present)<br>
 ![Dark Energy](/images/DMPie_2013.svg "Composition of Universe")<br/>
@@ -166,6 +168,7 @@ author_profile: true
    - Achieved 18\% accuracy for predicting all genres and 80\% accuracy  for predicting a single genre
         
    - Learnt about various types of Convolutional Neural Networks and how to implement them in Python using Tensorflow 
+   
 -----
 
 
