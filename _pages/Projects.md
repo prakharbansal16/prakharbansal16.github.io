@@ -73,7 +73,7 @@ author_profile: true
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 **Description**: <br/>
 
- - Performed analytic calculations for the Gravitational Wave (GW) amplitude corresponding to plus (+) and cross ($\times$) polarisation and power radiated in GWs from a rigid body precessing about its axis
+ - Performed analytic calculations for the Gravitational Wave (GW) amplitude corresponding to plus (+) and cross ( $\times$ ) polarisation and power radiated in GWs from a rigid body precessing about its axis
         
  - Estimated the order of magnitude of Gravitational Waves emitted from pulsars and presented the work as a seminar for the course
 
@@ -113,7 +113,7 @@ author_profile: true
 **Description**: <br/>
  - Studied the properties of elementary particles, their classification schemes and their interactions with the help of Feynman Diagrams and the Conservation Laws  governing these interactions
         
- - Learnt about Noether's theorem and some fundamentals of group theory focusing mainly on Lie Groups and explored properties of certain lie groups like SU(n), SO(n) and SL(n,$\mathbb{C}$)
+ - Learnt about Noether's theorem and some fundamentals of group theory focusing mainly on Lie Groups and explored properties of certain lie groups like SU(n), SO(n) and SL(n, $\mathbb{C}$ )
         
  -  Looked into Flavor Symmetry to understand Quark Models like baryon decuplets and meson nonets by studying the combinations of up, down and strange quarks to form mesons and baryons
 
