@@ -18,11 +18,11 @@ author_profile: true
 ![Dark Energy](/images/DMPie_2013.svg "Composition of Universe")<br/>
 **Guide** : [Prof Bharat Ratra, Kansas State University](https://www.phys.ksu.edu/people/tt-faculty/ratra.html)<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>
-**Report(s)**: [Report 1](http://prakharbansal16.github.io/files/Project_Reports/Parameter_Constraints.pdf) [Report 2](http://prakharbansal16.github.io/files/Project_Reports/BAO_Parameter_Constraints.pdf)
+**Report(s)**: [Report 1](http://prakharbansal16.github.io/files/Project_Reports/Parameter_Constraints.pdf) [Report 2](http://prakharbansal16.github.io/files/Project_Reports/BAO_Parameter_Constraints.pdf)<br/>
 **Description**: 
-        - Applied Markov Chain Monte Carlo  ({\bf MCMC}) simulations using {\bf emcee} library to constrain model parameters {\bf $\Omega_bh^2$, $\Omega_ch^2$, $\Omega_{\Lambda}$, $H_o$, $\omega_x$} for {\bf $\Lambda$CDM} and {\bf XCDM} models using {\bf H(z)} and {\bf BAO} data 
+        - Applied Markov Chain Monte Carlo (MCMC) simulations using emcee library to constrain model parameters $\Omega_bh^2$, $\Omega_ch^2$, $\Omega_{\Lambda}$, $H_o$, $\omega_x$ for $\Lambda$ CDM and XCDM models using H(z) and BAO data 
         
-  - Aiming to extend the parameter constraints analysis using {\bf Supernova IA, Quasar Angular Size and H II starburst galaxy} data for $\phi$CDM model by employing {\bf MontePython} and {\bf CLASS} code
+  - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
 
 ## 2. Resolved Star Formation using MaNGA Survey<br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Present)<br>
