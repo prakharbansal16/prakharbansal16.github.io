@@ -19,7 +19,7 @@ author_profile: true
 **Guide** : [Prof Bharat Ratra, Kansas State University](https://www.phys.ksu.edu/people/tt-faculty/ratra.html)<br>
 **Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>
 **Report(s)**: [Report 1](http://prakharbansal16.github.io/files/Project_Reports/Parameter_Constraints.pdf) [Report 2](http://prakharbansal16.github.io/files/Project_Reports/BAO_Parameter_Constraints.pdf)<br/>
-**Description**: 
+**Description**: <br/>
         - Applied Markov Chain Monte Carlo (MCMC) simulations using emcee library to constrain model parameters $\Omega_bh^2$, $\Omega_ch^2$, $\Omega_{\Lambda}$, $H_o$, $\omega_x$ for $\Lambda$ CDM and XCDM models using H(z) and BAO data 
         
   - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
