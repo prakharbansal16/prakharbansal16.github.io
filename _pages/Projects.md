@@ -14,8 +14,8 @@ author_profile: true
 -->
 # Cosmology/Astrophysics Projects
 
------------------------------------------------------------
-<hr style="border:2px solid gray">
+
+<hr style="border:1px solid gray">
 
 ## 1. Optimal Parameter Constraints for Dark Energy Models
 (March 2022- Present)<br>
@@ -31,7 +31,7 @@ author_profile: true
         
   - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
   
------------------------------------------------------------
+<hr style="border:1px solid gray">
 
 ## 2. Photometric Properties of High Redshift Galaxies using JWST <br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Present)<br>
@@ -47,7 +47,7 @@ author_profile: true
 - Attended introductory Radio Astronomy Lectures on   Pulsars, AGNs, Interferometry  and visited Giant Meterwave Radio Telescope (GMRT) Observatory located in Pune
 
 
----
+<hr style="border:1px solid gray">
 
 ## 3. Investigation of Dark Matter in Cosmological 21 cm signals
 (December 2021 - Present)<br>
@@ -64,7 +64,7 @@ author_profile: true
         
    - Familiarised with basics of the 21-cm cosmology  field and presented the work as a seminar. Aiming to investigate 21cm  signals from the epoch of cosmic dawn for dark matter detection 
    
----
+<hr style="border:1px solid gray">
 
 ## 4. Gravitational Waves from Freely Precessing Rigid Bodies <br/> Course Project| PH 821: Gravitational Waves Physics and Astronomy
 (October 2022 - November 2022)<br>
@@ -80,7 +80,7 @@ author_profile: true
  - Estimated the order of magnitude of Gravitational Waves emitted from pulsars and presented the work as a seminar for the course
 
 
----
+<hr style="border:1px solid gray">
 
 # Proteomics Research Project
 ## 1. Mutant Peptide Analysis in Covid-19 affected Indian Patients
@@ -100,9 +100,7 @@ author_profile: true
 
 
 
-
-
----
+<hr style="border:1px solid gray">
 
 # Other Physics Projects
 ## 1. Elementary Particle Physics (Reading Project) 
@@ -119,7 +117,7 @@ author_profile: true
         
  -  Looked into Flavor Symmetry to understand Quark Models like baryon decuplets and meson nonets by studying the combinations of up, down and strange quarks to form mesons and baryons
 
----
+<hr style="border:1px solid gray">
 
 ## 2. Correcting Stellar Aberration using Curve Fitting
 (August 2021)<br>
@@ -133,11 +131,10 @@ author_profile: true
         
  - Computed the true position of a star using Curve-Fitting, given its apparent position over a year
  
----
+<hr style="border:1px solid gray">
 
 # Machine Learning Projects
 
----
 
 ## 1. n3URL 
 (March 2021 - July 2021)<br>
@@ -153,7 +150,7 @@ author_profile: true
         
   - Selected as one of the top 6 teams among 50 teams that participated in the competition
          
-----
+<hr style="border:1px solid gray">
 
 ## 2. Convolution Neural Networks(CNN) and its applications
 (March 2021 - July 2021)<br>
@@ -169,7 +166,7 @@ author_profile: true
         
    - Learnt about various types of Convolutional Neural Networks and how to implement them in Python using Tensorflow 
    
------
+<hr style="border:1px solid gray">
 
 
 
