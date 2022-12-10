@@ -162,7 +162,7 @@ author_profile: true
 **Description**: <br/>
    - Implemented the ResNet50 architecture with transfer learning from the Imagenet project and used it for the multilabel classification problem of classifying movie posters based on their genres
         
-   - Achieved 18% accuracy for predicting all genres and 80\% accuracy  for predicting a single genre
+   - Achieved 18% accuracy for predicting all genres and 80% accuracy  for predicting a single genre
         
    - Learnt about various types of Convolutional Neural Networks and how to implement them in Python using Tensorflow 
    
