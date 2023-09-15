@@ -34,9 +34,9 @@ Reference: Baumann "Modern Cosmology" 2nd Edition
 # Black Holes and  Information Paradox
 
 
-### 1. [Special Black Hole Geometries (Slides)]((https://prakharbansal16.github.io/Resources/SPBH.pdf)
+### 1. [Special Black Hole Geometries (Slides)](https://prakharbansal16.github.io/Resources/SPBH.pdf)
 
-### 2. [Information Paradox (Lecture Notes)((https://prakharbansal16.github.io/Resources/Information_Paradox_Lecture_Notes.pdf)
+### 2. [Information Paradox (Lecture Notes)(https://prakharbansal16.github.io/Resources/Information_Paradox_Lecture_Notes.pdf)
 Reference: (1) Prof Suvrat Raju Video Lectures (2) Sean Carrol "Spacetime Geometry"
 
 <br/>
