@@ -18,7 +18,7 @@ author_profile: true
 
 ## 1. New Degrees of Freedom using N~eff~ (Effective Neutrino Species) measurements of CMB
 (May 2023 - Present)<br>
-![CMB](/images/CMB_ESA1.jpg "The Cosmic microwave background (CMB) as observed by Planck")<br/>
+![CMB](/images/CMB_ESA.jpg "The Cosmic microwave background (CMB) as observed by Planck")<br/>
 **Guide** : [Prof Adam Ritz $\mid$ University of Victoria, BC, Canada]([https://www.phys.ksu.edu/people/tt-faculty/ratra.html](https://www.uvic.ca/science/physics/people/people/faculty/ritz_adam.php))<br>
 **Description**: <br/>
 
@@ -70,7 +70,7 @@ author_profile: true
 
 ## 4. Photometric Properties of High Redshift Galaxies using JWST <br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
 (June 2022- Feb 2023)<br>
-![JWST](/images/Webb_Deepfield.png "Webb's First Deep Field (NIRCam Image)")<br/>
+![JWST](/images/Webb_Deepfield1.png "Webb's First Deep Field (NIRCam Image)")<br/>
 **Guide** : [Prof Yogesh Wadadekar, NCRA Pune](http://www.ncra.tifr.res.in/~yogesh/)<br>
 <!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
 <!--**Report(s)**: Under Preparation<br/>-->
