@@ -57,10 +57,10 @@ author_profile: true
 **Github**: [Click Here](https://github.com/prakharbansal16/21-cm-Cosmology)<br>
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/21cm_Cosmology_Project_Report.pdf)<br>
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1sY3WVsxJiOAo8BUeyzPlr5uJDY_k-eQ7/view?usp=sharing)<br/>
-**Cosmology Lecture Notes**: [Click Here](https://prakharbansal16.github.io/resources/)</br>
+**Cosmology Lecture Notes**: [Click Here](https://prakharbansal16.github.io/resources/)<br/>
 **Description**:<br/>
 
-   - Working on deriving constraints for millicharged dark matter models using data from \textbf{SARAS 3} by developing a {\bf code to track the temperature evolution} of baryons and dark matter particles
+   - Working on deriving constraints for millicharged dark matter models using data from SARAS 3 by developing a code to track the temperature evolution of baryons and dark matter particles
         
    - Gained proficiency in key concepts, including distinction b/w Brightness and Spin Temperature, in-depth exploration of Radiative Transfer Equations, and presented findings in a seminar
         
