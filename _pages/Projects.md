@@ -18,7 +18,7 @@ author_profile: true
 
 ## 1. New Degrees of Freedom using N~eff~ (Effective Neutrino Species) measurements of CMB
 (May 2023 - Present)<br>
-![CMB](/images/CMB_ESA "The Cosmic microwave background (CMB) as observed by Planck")<br/>
+![CMB](/images/CMB_ESA.jpg "The Cosmic microwave background (CMB) as observed by Planck")<br/>
 **Guide** : [Prof Adam Ritz $\mid$ University of Victoria, BC, Canada]([https://www.phys.ksu.edu/people/tt-faculty/ratra.html](https://www.uvic.ca/science/physics/people/people/faculty/ritz_adam.php))<br>
 **Description**: <br/>
 
