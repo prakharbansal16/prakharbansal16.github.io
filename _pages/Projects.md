@@ -14,10 +14,27 @@ author_profile: true
 -->
 # Cosmology/Astrophysics Projects
 
+<hr style="border:1px solid gray">
+
+## 1. New Degrees of Freedom using N~eff~ (Effective Neutrino Species) measurements of CMB
+(May 2023 - Present)<br>
+![CMB](/images/CMB_ESA "The Cosmic microwave background (CMB) as observed by Planck")<br/>
+**Guide** : [Prof Adam Ritz $\mid$ University of Victoria, BC, Canada]([https://www.phys.ksu.edu/people/tt-faculty/ratra.html](https://www.uvic.ca/science/physics/people/people/faculty/ritz_adam.php))<br>
+**Description**: <br/>
+
+   - Developed a computational code to calculate N~eff~ for analyzing various dark matter models. Successfully replicated results for a model involving dark matter interacting with the SM via massive dark photons
+ 
+  - Currently, investigating a model incorporating heavy sterile right-handed neutrinos 
+        
+  - Studied the contributions of LO and NLO QED corrections to Standard Model N~eff~ calculation
+
+  - Reviewed CMB Anisotropy Power Spectrum and understood the effect of N~eff~ on CMB Damping Tails
+
+  - Examined the role of CMB-S4 in improving the precision of N~eff~ measurement and breaking the degeneracy between $Y_P$ (Helium Abundance) and N~eff~ using CMB polarization observations 
 
 <hr style="border:1px solid gray">
 
-## 1. Optimal Parameter Constraints for Dark Energy Models
+## 2. Optimal Parameter Constraints for Dark Energy Models
 (March 2022- Present)<br>
 ![Dark Energy](/images/DMPie_2013.svg "Composition of Universe")<br/>
 **Guide** : [Prof Bharat Ratra, Kansas State University](https://www.phys.ksu.edu/people/tt-faculty/ratra.html)<br>
@@ -25,27 +42,11 @@ author_profile: true
 **Report(s)**: [Report 1](http://prakharbansal16.github.io/files/Project_Reports/Parameter_Constraints.pdf) [Report 2](http://prakharbansal16.github.io/files/Project_Reports/BAO_Parameter_Constraints.pdf)<br/>
 **Description**: <br/>
 
-   - Read about various Cosmological Tests including Gravitational Lensing, Bolometric Distance Modulus, Galaxy Count. Studied three dark energy models: $\Lambda$ CDM , XCDM and $\phi$ CDM 
+   - Applied Markov Chain Monte Carlo  (MCMC) simulations to constrain model parameters like Baryon, Dark Matter, Dark Energy density and $H_o$ for $\Lambda$CDM, XCDM and $\phi$CDM models using H(z) and BAO data
  
-  - Applied Markov Chain Monte Carlo (MCMC) simulations using emcee library to constrain model parameters $\Omega_bh^2$, $\Omega_ch^2$, $\Omega_{\Lambda}$, $H_o$, $\omega_x$ for $\Lambda$ CDM and XCDM models using H(z) and BAO data 
+  - Aiming to extend the parameter constraints analysis to other datasets like Supernova IA, Quasar Angular Size and H II starburst galaxy data by employing MontePython and CLASS code 
         
-  - Aiming to extend the parameter constraints analysis using Supernova IA, Quasar Angular Size and H II starburst galaxy data for $\phi$ CDM model by employing MontePython and CLASS code
-  
-<hr style="border:1px solid gray">
-
-## 2. Photometric Properties of High Redshift Galaxies using JWST <br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
-(June 2022- Present)<br>
-![MaNGA Survey](/images/mangagalaxy.png "The SDSS image of a galaxy observed by MaNGA; the pink hexagon shows the size of the MaNGA IFU")<br/>
-**Guide** : [Prof Yogesh Wadadekar, NCRA Pune](http://www.ncra.tifr.res.in/~yogesh/)<br>
-<!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
-**Report(s)**: Under Preparation<br/>
-**Description**:
-- Studied aspects of extragalactic astronomy like Galaxy Morphology, Evolution and Clusters and High Redshift Galaxies from Peter Schneider's book Extragalactic Astronomy and Cosmology
-        
-- Currently reading about Cosmic Evolution Early Release Science Survey (CEERS). Preparing a catalog of properties like Redshift, Mass, Star Formation Rate of $\sim$ 60,000 high redshift galaxies
-        
-- Attended introductory Radio Astronomy Lectures on   Pulsars, AGNs, Interferometry  and visited Giant Meterwave Radio Telescope (GMRT) Observatory located in Pune
-
+  - Read about various Cosmological Tests including Gravitational Lensing, Bolometric Distance Modulus, Galaxy Count
 
 <hr style="border:1px solid gray">
 
@@ -53,20 +54,36 @@ author_profile: true
 (December 2021 - Present)<br>
 ![21cm](/images/21cm.png "Evolution of the Global 21-cm Signal")<br/>
 **Guide** : [Prof Vikram Rentala, IIT Bombay](https://www.phy.iitb.ac.in/en/employee-profile/vikram-rentala)<br>
-<!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
+**Github**: [Click Here](https://github.com/prakharbansal16/21-cm-Cosmology)<br>
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/21cm_Cosmology_Project_Report.pdf)<br>
 **Video Presentation**: [Click Here](https://drive.google.com/file/d/1sY3WVsxJiOAo8BUeyzPlr5uJDY_k-eQ7/view?usp=sharing)<br/>
+**Cosmology Lecture Notes**: [Click Here](https://prakharbansal16.github.io/resources/)</br>
 **Description**:<br/>
 
-   - Learnt about applications of   Boltzmann equation in tracking abundance of various particle constituents like Baryons, Cold Dark Matter(CDM) Particles, Neutrinos and Photons of the universe
+   - Working on deriving constraints for millicharged dark matter models using data from \textbf{SARAS 3} by developing a {\bf code to track the temperature evolution} of baryons and dark matter particles
         
-   - Studied about inhomogeneities in matter, growth of structure in the universe in the linear regime and the inflation theory. Currently reading about CMB anisotropies 
+   - Gained proficiency in key concepts, including distinction b/w Brightness and Spin Temperature, in-depth exploration of Radiative Transfer Equations, and presented findings in a seminar
         
-   - Familiarised with basics of the 21-cm cosmology  field and presented the work as a seminar. Aiming to investigate 21cm  signals from the epoch of cosmic dawn for dark matter detection 
-   
+   - Completed the first nine chapters of Scott Dodelson's cosmology text, establishing a strong theoretical foundation covering topics such as matter inhomogeneities, linear structure growth, and inflation
+
 <hr style="border:1px solid gray">
 
-## 4. Gravitational Waves from Freely Precessing Rigid Bodies <br/> Course Project| PH 821: Gravitational Waves Physics and Astronomy
+## 4. Photometric Properties of High Redshift Galaxies using JWST <br/> Summer Research Internship| National Centre for Radio Astrophysics(NCRA), Pune
+(June 2022- Feb 2023)<br>
+![JWST](/images/Webb_Deepfield.png "Webb's First Deep Field (NIRCam Image)")<br/>
+**Guide** : [Prof Yogesh Wadadekar, NCRA Pune](http://www.ncra.tifr.res.in/~yogesh/)<br>
+<!--**Github**: [Click Here](https://github.com/prakharbansal16/Optimal-Parameter-Constraints-for-Dark-Energy-Models)<br>-->
+<!--**Report(s)**: Under Preparation<br/>-->
+**Description**:
+-  Worked on preparing a catalog of properties like Redshift, Mass, Star Formation Rate of ~ 60,000 high redshift galaxies using Grizli pipeline from CEERS (Cosmic Evolution Early Release Science Survey) data
+        
+- Studied aspects of extragalactic astronomy like Galaxy Morphology, Evolution, Clusters and the High Redshift Universe from Peter Schneider's book Extragalactic Astronomy and Cosmology
+        
+- Attended introductory Radio Astronomy Lectures on Pulsars, AGNs, Interferometry and visited the Giant Meterwave Radio Telescope (GMRT) Observatory located in Pune
+  
+<hr style="border:1px solid gray">
+
+## 5. Gravitational Waves from Freely Precessing Rigid Bodies <br/> Course Project| PH 821: Gravitational Waves Physics and Astronomy
 (October 2022 - November 2022)<br>
 ![gws](/images/grav_waves.jpg "Gravitational Waves from Binary Blackhole Merger")<br/>
 **Guide** : [Prof Archana Pai, IIT Bombay](https://homepages.iitb.ac.in/~archanap/)<br>
@@ -88,7 +105,7 @@ author_profile: true
 ![mutant](/images/mutant.png "Generation of Mutant Peptides")<br/>
 **Guide** : [Prof Sanjeeva Srivastava, IIT Bombay](https://www.bio.iitb.ac.in/people/faculty/srivastava-s/)<br>
 <!--**Github**: [Click Here](https://github.com/cov-mut/Mutant-Peptides)<br>-->
-**Publication**: Manuscript under Preparation <br/>
+**Publication**:[Link to the Paper](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00819) <br/>
 **Description**:
 
  - Completed the 21 day Proteomics Internship Orientation Program and
