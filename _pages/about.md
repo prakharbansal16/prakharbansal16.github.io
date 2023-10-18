@@ -12,6 +12,8 @@ Hello there! I am Prakhar, a fourth-year undergraduate student in the Department
 Apart from academics, I am into stand-up comedy! I love writing and performing jokes based on events happening in and around the world. If you are a comedy-savant like me, this genre is topical comedy. If you are not, I might just write a set on you! The picture you can see on your left is that of the Annual Standup Showcase, an event held in our college where I and seven other performers from the institute performed for a packed auditorium of almost 700 members.
 
 
+<a href="https://info.flagcounter.com/hgyh"><img src="https://s01.flagcounter.com/count/hgyh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 <!--# Research Interests
 I love spending my time reading and thinking about problems in Astrophysics and Cosmology especially early universe Physics. A few specific areas about which I'm quite excited and look forward to work to are
   - [Cosmic Microwave Background (CMB) Anisotropies](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
