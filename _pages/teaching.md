@@ -30,9 +30,10 @@ I have been a teaching assistant(TA) for two undergrad first-year physics course
 
 Vriksh is a non-profit organization which provides free-of-cost coaching to under-privileged students for various competitive examinations like JEE Main, JEE Advanced, KVPY and Olympiads. I volunteered at Vriskh NGO to teach high school students several topics in Chemistry and Physics. Here are the links for the relevant course materials.
 
-- [Ionic Equilibrium](https://drive.google.com/drive/folders/1ZORn4wCNGwQ1QEPC_-7EovAQ2BDmpDo8?usp=sharing)
-- [Ionic Equilibrium (Advanced)](https://drive.google.com/drive/folders/1gU9LCVSdm-YVAHEEm8mMMBjhGHcGlT-p?usp=sharing)
-- [Thermodynamics](https://drive.google.com/drive/folders/1fMyk7Z9f2Dr5d_l0GuxH613RqeKDd_4r?usp=sharing)
-- [Gaseous State](https://drive.google.com/drive/folders/1MYNfZ4SyLRsekFgBLORBAECd5C6YtSzS?usp=sharing)
-- [Solid State](https://drive.google.com/drive/folders/1dDd89ePDEdDpIl0OF4-10Bx_bnV6Ket0?usp=sharing)
-- [Electrochemistry](https://drive.google.com/drive/folders/1vD4IbbsmAfqvmYaEJ1FZziU_ke9qEAKc?usp=sharing)
+- [Ionic Equilibrium](https://iitbacin-my.sharepoint.com/:f:/g/personal/200070056_iitb_ac_in/EuZKeDDK_2lBnhELCeubiwYBdPxWbsy32rBS5gta_XFZAw?e=DN3MBS)
+- [Ionic Equilibrium (Advanced)](https://iitbacin-my.sharepoint.com/:f:/g/personal/200070056_iitb_ac_in/EigWO-qKiMhClbFDbiFc38MBgoCjngpgr9fIvCMHfPlRiA?e=3YqIt0)
+- [Thermodynamics](https://iitbacin-my.sharepoint.com/:f:/g/personal/200070056_iitb_ac_in/Esy9iE-E2h5OmxGUdtBqOjkBFCpbjua0JMrgnK6Y3SN_9Q?e=jyeyXz)
+- [Gaseous State](https://iitbacin-my.sharepoint.com/:f:/g/personal/200070056_iitb_ac_in/EqHbvmHTGBZKkTF-kAWeHIwBjUvbbCud2zzYrvna_GP15Q?e=AmvQ6y)
+- [Solid State](https://iitbacin-my.sharepoint.com/:f:/g/personal/200070056_iitb_ac_in/EhoZpQzRQ7dBqbdincRnna8Be3wSdVLtrJu5WpRVRo8ttw?e=HdJbLv)
+- [Electrochemistry](https://iitbacin-my.sharepoint.com/:f:/g/personal/200070056_iitb_ac_in/Euvpc9oME6tFgTiLg4nmSWgBRayCuhxY2Wyh6-bq0xog2w?e=6qbEWY)
+- [Organic Chemistry](https://iitbacin-my.sharepoint.com/:f:/g/personal/200070056_iitb_ac_in/Ek1WkM0TMY1Pk6mC5X5u6DIB268j6TrfHwOTyv6zgzynbg?e=Vwr4H0)
