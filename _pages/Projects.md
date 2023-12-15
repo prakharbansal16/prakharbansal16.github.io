@@ -21,7 +21,7 @@ author_profile: true
 ![CMB](/images/CMB_ESA.jpg "The Cosmic microwave background (CMB) as observed by Planck")<br/>
 **Guide** : [Prof Adam Ritz $\mid$ University of Victoria, BC, Canada]([https://www.phys.ksu.edu/people/tt-faculty/ratra.html](https://www.uvic.ca/science/physics/people/people/faculty/ritz_adam.php))<br>
 **Report**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/Bachelors_ThesisNeff_Project_Report.pdf)<br>
-**Presentation**: [Click Here]([https://drive.google.com/file/d/1sY3WVsxJiOAo8BUeyzPlr5uJDY_k-eQ7/view?usp=sharing](http://prakharbansal16.github.io/files/Project_Reports/BTP_Presentation.pdf))<br/>
+**Presentation**: [Click Here](http://prakharbansal16.github.io/files/Project_Reports/BTP_Presentation.pdf)<br/>
 **Description**: <br/>
 
    - Developed a computational code to calculate N~eff~ for analyzing various dark matter models. Successfully replicated results for a model involving dark matter interacting with the SM via massive dark photons
