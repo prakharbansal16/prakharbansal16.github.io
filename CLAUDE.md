@@ -13,11 +13,12 @@ python3 -m http.server 8000
 
 ## Structure
 
-- `index.html` — single-page site with anchor-linked sections: `#intro`, `#one` (About Me), `#two` (Research), `#four` (CV & Publications), `#five` (Talks), `#three` (Contact)
-- `research/` — individual sub-pages per research topic (e.g. `cosmological-tensions.html`, `full-shape.html`), loaded via nav links from the research tiles
+- `index.html` — single-page site with anchor-linked sections: `#intro`, `#one` (About Me), `#news` (Recent Updates), `#two` (Research tiles), `#four` (CV & Publications, incl. Selected Publications list), `#five` (Talks), `#three` (Contact)
+- `research/` — one sub-page per research tile (`cosmological-tensions`, `full-shape`, `bao`, `modified-gravity`, `cmb-compression`, `21cm`)
+- `talks.html` — full talk list (the homepage shows only the most recent few)
 - `presentations/` — PDF slides linked from the Talks section
 - `images/` — photos and figures used across the site
-- `CV_Prakhar.pdf` — CV linked from the Academic Resources section
+- `CV_Prakhar.pdf` — CV linked from the CV & Publications section
 - `assets/css/main.css` — primary stylesheet; custom styles for this site are appended after the Hyperspace base styles (starting around line 4040)
 - `assets/css/noscript.css`, `assets/js/` — Hyperspace template JS (jQuery, Scrollex, browser detection, etc.); do not modify these
 
@@ -25,12 +26,12 @@ python3 -m http.server 8000
 
 **CSS**: Custom styles (`.intro-container`, `.research-tile`, `.talk-list`, `.resource-buttons`, etc.) live at the bottom of `assets/css/main.css`. The Hyperspace base styles occupy the bulk of the file; append new styles rather than modifying the base.
 
-**Research sub-pages** (`research/*.html`): Use `../assets/css/main.css` for the stylesheet path (one level up). Script paths currently use `assets/js/...` (missing `../`) — this is a known bug. The header nav links in these pages still point to `index.html` / `generic.html` (leftover template placeholders) and should be updated to point back to `../index.html`.
+**Research sub-pages** (`research/*.html`): use `../` for all asset paths (CSS, JS, images) and link back via `../index.html`. Papers are shown with `.paper-cite` blocks; when adding a paper, also add it to the Selected Publications list in `index.html#four` and to Recent Updates (`#news`).
 
-**Research tiles** in `index.html`: Several tiles link to `cosmological-tensions.html` even when their content belongs elsewhere (e.g. Full Shape, Modified Gravity, CMB Compression tiles all share the same wrong href). Each tile should eventually link to its own dedicated sub-page.
+**Line endings**: `index.html` uses CRLF; the other HTML files use LF. Preserve whichever a file already has.
 
-**Contact form**: The form `action="#"` is a placeholder — it does not submit anywhere. It needs a backend or a form service (e.g. Formspree) to actually work.
+**Images**: keep photos real JPEG/PNG/WebP (iPhone HEIC files renamed to `.jpg` don't render in Chrome/Firefox), resize to ≤1400px, and strip EXIF/GPS metadata before committing.
 
-**Social icons**: The social links in the Contact section (`#three`) all use `href="#"` — they are placeholders and need real URLs.
+**Contact form**: submits via Formspree (`https://formspree.io/f/xnjebrjn`).
 
 **MathJax**: Loaded via CDN on `index.html` and `cosmological-tensions.html` for LaTeX rendering in research descriptions. Add the same `<script>` block to any new research pages that contain math.

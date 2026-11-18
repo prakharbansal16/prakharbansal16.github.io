@@ -4531,3 +4531,43 @@ input, select, textarea {
     background-color: #2a5478;
     border-color: #2a5478;
 }
+/* CV & Publications: selected publications list */
+#four .pub-heading {
+    color: var(--deep-blue);
+    margin: 1.5em auto 0.75em;
+    max-width: 800px;
+}
+
+#four .pub-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto 2.5em;
+    max-width: 800px;
+}
+
+#four .pub-list li {
+    padding: 0.8em 0 0.8em 1em;
+    border-left: 3px solid #3e6a94;
+    margin-bottom: 0.8em;
+    background: rgba(62, 106, 148, 0.06);
+    border-radius: 0 6px 6px 0;
+}
+
+#four .pub-title {
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+#four .pub-meta {
+    font-size: 0.85em;
+    opacity: 0.8;
+    margin-top: 0.25em;
+}
+
+#four .pub-list a {
+    color: #3e6a94;
+}
+
+#four .pub-meta strong {
+    color: var(--deep-blue);
+}
