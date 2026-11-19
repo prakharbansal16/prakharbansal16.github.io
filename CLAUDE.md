@@ -20,7 +20,7 @@ python3 -m http.server 8000
 - `images/` — photos and figures used across the site
 - `CV_Prakhar.pdf` — CV linked from the CV & Publications section
 - `assets/css/main.css` — primary stylesheet; custom styles for this site are appended after the Hyperspace base styles (starting around line 4040)
-- `assets/css/noscript.css`, `assets/js/` — Hyperspace template JS (jQuery, Scrollex, browser detection, etc.); do not modify these
+- `assets/css/noscript.css`, `assets/js/` — Hyperspace template JS (jQuery, Scrollex, browser detection, etc.); do not modify these. One deliberate exception: the Scrolly offset in `assets/js/main.js` uses the nav-bar height at all widths >736px, because the Hyperspace left sidebar is replaced by a top nav bar at every width (see the "Large screens" block at the end of `main.css`)
 
 ## Key Conventions
 

@@ -118,9 +118,9 @@
 			speed: 1000,
 			offset: function() {
 
-				// If <=large, >small, and sidebar is present, use its height as the offset.
-					if (breakpoints.active('<=large')
-					&&	!breakpoints.active('<=small')
+				// If >small and sidebar is present, use its height as the offset.
+				// (Site customization: the sidebar is a top bar at all widths >small.)
+					if (!breakpoints.active('<=small')
 					&&	$sidebar.length > 0)
 						return $sidebar.height();
 

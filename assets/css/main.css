@@ -4641,3 +4641,135 @@ input, select, textarea {
     margin-top: -0.6em;
     margin-bottom: 0.9em;
 }
+
+/* ------------------------------------------------------------------
+   Large screens (>1280px): keep the top nav bar instead of the
+   Hyperspace left sidebar, and center content with a max width.
+   Mirrors the template's own <=1280px sidebar rules.
+   ------------------------------------------------------------------ */
+@media screen and (min-width: 1281px) {
+
+    #sidebar {
+        height: 3.5em;
+        line-height: 3.5em;
+        overflow: hidden;
+        padding: 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    #sidebar > .inner {
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: center;
+        height: inherit;
+        line-height: inherit;
+    }
+
+    #sidebar nav,
+    #sidebar nav a {
+        height: inherit;
+        line-height: inherit;
+    }
+
+    #sidebar nav ul {
+        display: flex;
+        height: inherit;
+        line-height: inherit;
+        margin: 0;
+    }
+
+    #sidebar nav ul li {
+        display: block;
+        height: inherit;
+        line-height: inherit;
+        margin: 0 0 0 2.5em;
+        padding: 0;
+    }
+
+    #sidebar nav ul li:first-child {
+        margin-left: 0;
+    }
+
+    #sidebar nav a {
+        padding: 0;
+    }
+
+    #sidebar nav a:after {
+        background-image: none;
+        background-color: rgba(255, 255, 255, 0.55);
+    }
+
+    #sidebar + #wrapper {
+        margin-left: 0;
+        padding-top: 3.5em;
+    }
+
+    #sidebar + #wrapper + #footer {
+        margin-left: 0;
+    }
+
+    .wrapper > .inner {
+        margin: 0 auto;
+    }
+
+    /* About Me / Talks: keep text at a readable line length on wide screens */
+    .spotlights > section > .content {
+        flex: 1;
+    }
+
+    .spotlights > section > .content > .inner {
+        max-width: 48em;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .news-list {
+        max-width: 56em;
+    }
+
+    #footer > .inner {
+        margin: 0 auto;
+    }
+}
+
+/* Top nav bar (all widths >736px): underline only the active/hovered link,
+   and keep links from shifting when they become active. */
+@media screen and (min-width: 737px) {
+
+    #sidebar nav a,
+    #sidebar nav a:hover,
+    #sidebar nav a.active {
+        padding: 0;
+        background-color: transparent;
+        border-radius: 0;
+    }
+
+    #sidebar nav a:hover {
+        color: #ffffff;
+    }
+
+    #sidebar nav a:before {
+        display: none;
+    }
+
+    #sidebar nav a:after,
+    #sidebar nav a.active:after {
+        padding: 0;
+        bottom: 0.55em;
+        height: 2px;
+        background-color: #ffffff;
+        max-width: 0;
+        transition: max-width 0.25s ease;
+    }
+
+    #sidebar nav a:hover:after {
+        max-width: 100%;
+        background-color: rgba(255, 255, 255, 0.55);
+    }
+
+    #sidebar nav a.active:after {
+        max-width: 100%;
+        background-color: #ffffff;
+    }
+}
