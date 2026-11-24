@@ -14,7 +14,7 @@ python3 -m http.server 8000
 ## Structure
 
 - `index.html` — single-page site with anchor-linked sections: `#intro`, `#one` (About Me), `#news` (Recent Updates), `#two` (Research tiles), `#four` (CV & Publications, incl. Selected Publications list), `#five` (Talks), `#three` (Contact)
-- `research/` — one sub-page per research tile (`cosmological-tensions`, `full-shape`, `bao`, `modified-gravity`, `cmb-compression`, `21cm`)
+- `research/` — one sub-page per research tile (`cosmological-tensions`, `full-shape`, `bao`, `modified-gravity`, `cmb-compression`, `21cm`, `reionization-ksz`)
 - `talks.html` — full talk list (the homepage shows only the most recent few)
 - `presentations/` — PDF slides linked from the Talks section
 - `images/` — photos and figures used across the site

@@ -4773,3 +4773,19 @@ input, select, textarea {
         background-color: #ffffff;
     }
 }
+
+/* Research sub-page: square/portrait figures shouldn't fill the full page width */
+.figure-narrow {
+    max-width: 32em;
+    margin: 0 auto 2em;
+}
+
+.figure-narrow .figure-caption {
+    text-align: center;
+    margin-top: -1.5em;
+}
+
+.reion::before {
+    background-image: url("../../images/reionization_history.png");
+    filter: brightness(0.45) contrast(1.1);
+}

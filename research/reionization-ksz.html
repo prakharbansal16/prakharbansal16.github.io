@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Reionization &amp; the kSZ Effect | Prakhar Bansal</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-JR5NEH6G93"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-JR5NEH6G93');
+		</script>
+		<script>
+			window.MathJax = {
+			  tex: {
+				inlineMath: [['$', '$'], ['\\(', '\\)']],
+				displayMath: [['$$', '$$'], ['\\[', '\\]']]
+			  }
+			};
+		</script>
+		<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+	</head>
+	<body class="is-preload">
+
+		<header id="header">
+			<a href="../index.html" class="title">Prakhar Bansal</a>
+			<nav>
+				<ul>
+					<li><a href="../index.html">Home</a></li>
+					<li><a href="../index.html#two">Research</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<div id="wrapper">
+			<section id="main" class="wrapper">
+				<div class="inner">
+					<h1 class="major">Reionization &amp; the kSZ Effect</h1>
+					<div class="figure-narrow">
+						<span class="image fit"><img src="../images/reionization_history.png" alt="Mean ionized fraction versus redshift for a standard galaxy-driven reionization history and one with an early transient Pop III.1 flash" /></span>
+						<p class="figure-caption">Mean ionized fraction vs. redshift: standard galaxy-driven reionization (black) and with an early Pop III.1 flash (purple). Figure: Bansal, Kern &amp; Huterer (2026), CC BY 4.0</p>
+					</div>
+
+					<p class="research-section-heading">Background</p>
+					<p>
+					The <strong>optical depth to reionization</strong>, $\tau$, measures how much CMB light was scattered by free electrons after the first stars and galaxies reionized the Universe (roughly $z \sim 6$–$30$). It is the least well-measured of the six parameters of the standard cosmological model. It is usually inferred from the <em>reionization bump</em>, a feature in the CMB E-mode polarization on the very largest scales ($\ell \lesssim 10$). That signal is notoriously hard to measure: there are very few independent modes on the sky, and it is extremely sensitive to foregrounds and instrument systematics. Planck's low value ($\tau \approx 0.054$) compared with WMAP's earlier $\tau \approx 0.089$ raised some eyebrows when it was published. Turning the data into a constraint also often relies on models of early star and galaxy formation, which are poorly known at high redshift.
+					</p>
+					<p>
+					In 2025, $\tau$ suddenly became much more interesting to me. Two papers (<a href="https://arxiv.org/abs/2504.16932" target="_blank" rel="noopener">Sailer et al.</a>; <a href="https://arxiv.org/abs/2504.21813" target="_blank" rel="noopener">Jhaveri, Karwal &amp; Hu</a>) showed that much of the preference for dynamical dark energy and for a very low neutrino mass in DESI BAO + CMB (see the <a href="cosmological-tensions.html">tensions page</a>) traces back to the low $\tau$ preferred by the CMB polarization data. Taking $\tau \approx 0.09$ instead reduces the preference for evolving dark energy from about $3\sigma$ to about $1.5\sigma$. The reason is a degeneracy: in the rest of the CMB data, a higher $\tau$ pulls the inferred matter density $\Omega_m$ down, bringing it into better agreement with BAO.
+					</p>
+					<p>
+					With no new full-sky CMB polarization mission coming soon (LiteBIRD may change that), there is growing interest in constraining $\tau$ with <em>secondary</em> CMB anisotropies. One of the most promising is the <strong>kinetic Sunyaev–Zel'dovich (kSZ) effect</strong>. Free electrons moving with a bulk velocity Doppler-shift the CMB photons they scatter. This leaves the blackbody spectrum intact, unlike the thermal SZ effect from hot cluster gas. Part of the kSZ signal comes from after reionization, from density and velocity fluctuations of the fully ionized gas. During reionization, though, the Universe is a patchwork of ionized bubbles and neutral gas, and these fluctuations in the free-electron fraction source an additional <strong>patchy kSZ</strong> signal. Its amplitude depends on how long reionization lasted and how large the bubbles were, which makes it an independent probe of reionization and therefore of $\tau$.
+					</p>
+
+					<p class="research-section-heading">My Work</p>
+					<p>
+					Patchy kSZ measurements from the South Pole Telescope, combined with the end of reionization at $z \approx 6$ from the Ly$\alpha$ forest, also seem to prefer a low $\tau \approx 0.055$. But there's a catch: this assumes a standard, monotonic reionization history driven by galaxies (the black curve in the figure above). Suppose instead there was an additional early, <em>transient</em> phase of reionization, for example a "flash" from supermassive Population III stars at $z \sim 20$–$25$ (<a href="https://arxiv.org/abs/2506.18490" target="_blank" rel="noopener">Tan 2025</a>). That phase ionizes many small bubbles, which carry their kSZ power at much smaller angular scales ($\ell \sim 20{,}000$) than current experiments probe. It can therefore raise $\tau$ substantially while leaving the patchy kSZ signal at $\ell = 3000$ almost unchanged.
+					</p>
+					<p>
+					Together with <a href="https://nkern.github.io/" target="_blank" rel="noopener">Nicholas Kern</a>, a NASA Hubble Fellow at Michigan, and my advisor Dragan Huterer, I tested this idea self-consistently in a large cosmological simulation. Nick implemented the supermassive Pop III model, with its ionizing, Lyman–Werner and X-ray feedback, in the semi-numerical code 21cmFAST. I worked out what the model implies for the patchy kSZ effect. We find that the flash raises the optical depth to $\tau \approx 0.09$ while remaining consistent with the Ly$\alpha$ forest and with current kSZ limits for most foreground models. Looking ahead, the Simons Observatory, combined with complementary probes, could pin down the optical depth accumulated above $z = 12$ to about $\pm 0.008$ in this scenario. In a companion paper we show that the same flash leaves distinctive signatures in the 21 cm signal from Cosmic Dawn, which future radio arrays like the SKA could detect.
+					</p>
+
+					<div class="paper-cite">
+						<div class="paper-label">Paper</div>
+						<div class="paper-title">Transient early reionization allows for a high optical depth while remaining consistent with kSZ measurements</div>
+						<div class="paper-authors">Prakhar Bansal, Nicholas Kern &amp; Dragan Huterer (2026)</div>
+						<div class="paper-arxiv"><a href="https://arxiv.org/abs/2611.16005" target="_blank" rel="noopener">arXiv:2611.16005</a></div>
+					</div>
+
+					<div class="paper-cite">
+						<div class="paper-label">Companion Paper</div>
+						<div class="paper-title">A flash before dawn: 21 cm signatures of transient reionization from supermassive Pop III stars</div>
+						<div class="paper-authors">Nicholas Kern, Prakhar Bansal &amp; Dragan Huterer (2026)</div>
+						<div class="paper-arxiv"><a href="https://arxiv.org/abs/2611.16006" target="_blank" rel="noopener">arXiv:2611.16006</a></div>
+					</div>
+
+				</div>
+			</section>
+		</div>
+
+		<footer id="footer" class="wrapper style1-alt">
+			<div class="inner">
+				<ul class="menu">
+					<li>&copy; Prakhar Bansal. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</div>
+		</footer>
+
+		<script src="../assets/js/jquery.min.js"></script>
+		<script src="../assets/js/jquery.scrollex.min.js"></script>
+		<script src="../assets/js/jquery.scrolly.min.js"></script>
+		<script src="../assets/js/browser.min.js"></script>
+		<script src="../assets/js/breakpoints.min.js"></script>
+		<script src="../assets/js/util.js"></script>
+		<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
