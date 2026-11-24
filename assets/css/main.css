@@ -4776,7 +4776,7 @@ input, select, textarea {
 
 /* Research sub-page: square/portrait figures shouldn't fill the full page width */
 .figure-narrow {
-    max-width: 32em;
+    max-width: 28em;
     margin: 0 auto 2em;
 }
 
